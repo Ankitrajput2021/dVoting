@@ -1,5 +1,4 @@
 import React from "react";
-
 import "./Footer.css";
 
 const Footer = () => (
@@ -20,14 +19,15 @@ const Footer = () => (
           .
         </p>
         <p>
-          Made with <i className="fas fa-heartbeat" /> {" "}
+          Made with <i className="fas fa-heartbeat" /> {" "} 
+          by{" "}
           <a
             className="profile"
-            href=""
+            href="https://github.com/Ankitrajput2021"
             target="_blank"
             rel="noopener noreferrer"
           >
-            
+            Ankit Kumar
           </a>
           .
         </p>
